@@ -47,7 +47,7 @@ const App = () => {
     
     return (
         <>
-        <div className="main">
+        <div className="main ">
             <h2>Password Generator</h2>
             <div className="button">
                 <input type="text"
